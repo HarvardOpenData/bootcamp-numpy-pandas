@@ -1,2 +1,2 @@
 # bootcamp-numpy-pandas
-NumPy/Pandas
+The Harvard Open Data Project NumPy and Pandas bootcamp.
